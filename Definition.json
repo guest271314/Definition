@@ -1,0 +1,94 @@
+{
+"Definition": {
+        "ancestors": [
+            {
+                "Thing":  [
+                        "url",
+                        "http://schema.org/Thing"
+                    ]
+            },
+            {
+                "reference": {
+                    "Schema.RDFS.org": [
+                        "url",
+                        "http://schema.rdfs.org/all.json"
+                    ]
+                }
+            },
+            {
+                "reference": {
+                    "The Type Hierarchy": [
+                        "url",
+                        "http://schema.org/docs/full.html"
+                    ]
+                }
+            }
+        ],
+        "comment": [
+            [
+                "Definition of a thing."
+            ],
+            {
+                "author": {
+                    "guest271314": [
+                        "url",
+                        "http://guest271314.com"
+                    ]
+                }
+            }
+        ],
+        "comment_plain": "Definition of a thing.",
+        "id": "Definition",
+        "label": "Definition",
+        "properties": [
+            {
+                "definition": {
+                    "type": [
+                        "text",
+                        "application",
+                        "audio",
+                        "image",
+                        "message",
+                        "model",
+                        "multipart",
+                        "video",
+                        "vnd",
+                        "x",
+                        "x-pkcs"
+                    ],
+                    "description": [
+                        "Definition."
+                    ]
+                }
+            }
+        ],
+        "specific_properties": [
+        ],
+        "subtypes": [],
+        "supertypes": [
+            {
+                "Thing":  [
+                        "url",
+                        "http://schema.org/Thing"
+                    ]
+            },
+            {
+                "reference": {
+                    "Schema.RDFS.org": [
+                        "url",
+                        "http://schema.rdfs.org/all.json"
+                    ]
+                }
+            },
+            {
+                "reference": {
+                    "The Type Hierarchy": [
+                        "url",
+                        "http://schema.org/docs/full.html"
+                    ]
+                }
+            }
+        ],
+        "url": "http://guest271314.com/data/html/microdata/vocabulary/extend/Definition.html"
+    }
+}
